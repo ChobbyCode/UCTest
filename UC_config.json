@@ -2,15 +2,11 @@
     "ExtractInfo": {
         "Data": [
             {
-                "FileName": "README.md",
-                "From": "*/README.md",
-                "To": "../"
+                "FileName": "Old.txt",
+                "From": "../Old.txt",
+                "To": "../OldFiles/"
             }
         ],
-        "Delete": [
-            {
-                "Location": "../Old.txt"
-            }
-        ]
+        "Delete": []
     }
 }
