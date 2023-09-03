@@ -13,6 +13,10 @@
                 "To": "../"
             }
         ],
-        "Delete": []
+        "Delete": [
+            {
+                "Location": "../The very good.txt"
+            }
+        ]
     }
 }
