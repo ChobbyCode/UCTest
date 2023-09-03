@@ -5,17 +5,11 @@
                 "FileName": "README.md",
                 "From": "*/README.md",
                 "To": "../"
-            },
-
-            {
-                "FileName": "LICENSE.txt",
-                "From": "*/LICENSE.txt",
-                "To": "../"
             }
         ],
         "Delete": [
             {
-                "Location": "../The very good.txt"
+                "Location": "../Old.txt"
             }
         ]
     }
