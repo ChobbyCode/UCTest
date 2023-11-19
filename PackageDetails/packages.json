@@ -1,0 +1,13 @@
+{
+    "ListName": "New List",
+    "PackageList": [
+      {
+        "PullLocation": "https://github.com/ChobbyCode/SquidPackageManager",
+        "Name": "New Package",
+        "Description": "This is a new package",
+        "Version": 1,
+        "Author": "ChobbyCode",
+        "PackageId": "pk001"
+      }
+    ]
+  }
